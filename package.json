@@ -1,0 +1,32 @@
+{
+  "name": "fis-parser-w3c-sm",
+  "version": "0.1.0",
+  "description": "fis插件，用于将w3c标准API替换为神马封装的 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smocean/fis-parser-w3c-sm.git"
+  },
+  "keywords": [
+    "fis",
+    "plugin"
+  ],
+  "author": "guomilo <guomilo@gmail.com> (https://github.com/ybbjegj/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smocean/fis-parser-w3c-sm/issues"
+  },
+  "homepage": "https://github.com/smocean/fis-parser-w3c-sm#readme",
+  "dependencies": {
+    "escodegen": "1.8.0",
+    "escope": "3.6.0",
+    "esprima": "2.7.2",
+    "esquery": "0.4.0",
+    "esrefactor": "0.1.0",
+    "estraverse": "4.2.0"
+  },
+  "devDependencies": {}
+}

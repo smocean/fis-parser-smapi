@@ -1,0 +1,9 @@
+{
+    "extends": "sm/node-config",
+    "env": {
+        "node": true
+    },
+    "globals":{
+        "fis": false
+    }
+}
