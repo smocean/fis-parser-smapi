@@ -10,6 +10,7 @@ npm install fis-parser-w3c-sm -g
 ```
 
 ## 配置
+```
 fis.config.merge({
     modules: { parser: { js: 'w3c-sm' } },
     settings: {
@@ -24,3 +25,4 @@ fis.config.merge({
         }
     }
 });
+```
