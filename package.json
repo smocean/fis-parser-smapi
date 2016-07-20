@@ -1,6 +1,6 @@
 {
   "name": "fis-parser-w3c-sm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "fis插件，用于将w3c标准API替换为神马封装的 API",
   "main": "index.js",
   "scripts": {
