@@ -21,12 +21,9 @@
   },
   "homepage": "https://github.com/smocean/fis-parser-w3c-sm#readme",
   "dependencies": {
-    "escodegen": "1.8.0",
-    "escope": "3.6.0",
-    "esprima": "2.7.2",
-    "esquery": "0.4.0",
-    "esrefactor": "0.1.0",
-    "estraverse": "4.2.0"
+    "w3c-sm": "0.1.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+
+  }
 }
